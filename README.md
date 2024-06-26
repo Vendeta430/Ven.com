@@ -1,4 +1,4 @@
-# REGISTRY: ghcr.io
+# REGISTRY: ghcr.io.
 name: Tag Docker image
 
 on:
